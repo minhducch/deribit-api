@@ -9,3 +9,5 @@ require (
 	github.com/stretchr/testify v1.5.1
 	nhooyr.io/websocket v1.8.5
 )
+
+replace github.com/frankrap/deribit-api => github.com/minhducch/deribit-api v1.0.4
