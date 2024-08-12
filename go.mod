@@ -10,4 +10,4 @@ require (
 	nhooyr.io/websocket v1.8.5
 )
 
-replace github.com/frankrap/deribit-api => github.com/minhducch/deribit-api v1.0.4
+replace github.com/frankrap/deribit-api => github.com/minhducch/deribit-api v1.0.5
